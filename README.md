@@ -1,3 +1,7 @@
 # Customer Resource Manager
 
-implements CRUD operations to maintain a database of Customer Records
+Implements CRUD operations to maintain a database of Customer Records
+
+**Technologies Used:**
+- Java
+- Eclipse
