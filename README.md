@@ -1,4 +1,4 @@
-# Customer Resource Manager
+# :bust_in_silhouette: Customer Resource Manager
 
 Implements CRUD operations to maintain a database of Customer Records
 
